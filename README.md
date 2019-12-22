@@ -179,3 +179,11 @@ https://xakep.ru/2018/03/14/kmdf-driver/
 Данная статья является первой моей статьей о руткитах для Windows и Linux.
 
 Решил сделать цикл статей.)))
+
+Сканы антивирусов на руткит:
+
+Скан x86:
+https://avcheck.net/id/Nk58BK40GpFy
+
+Скан x64:
+https://avcheck.net/id/y8l28ftIaGTj
