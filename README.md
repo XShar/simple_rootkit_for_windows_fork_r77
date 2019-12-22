@@ -187,3 +187,5 @@ https://avcheck.net/id/Nk58BK40GpFy
 
 Скан x64:
 https://avcheck.net/id/y8l28ftIaGTj
+
+Статья на форуме:https://ru-sfera.org/threads/user-mode-rootkit-for-windows-skrytie-fajlov-i-processov-ot-polzovatelja.3912/
